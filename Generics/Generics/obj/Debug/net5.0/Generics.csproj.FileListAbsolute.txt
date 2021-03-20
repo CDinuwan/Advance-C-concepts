@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\Generics.exe
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\Generics.deps.json
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\Generics.dll
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\ref\Generics.dll
+G:\Projects\Advanced C#\Generics\Generics\bin\Debug\net5.0\Generics.pdb
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.dll
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\ref\Generics.dll
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.pdb
+G:\Projects\Advanced C#\Generics\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
