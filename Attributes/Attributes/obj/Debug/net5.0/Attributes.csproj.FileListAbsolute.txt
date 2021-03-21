@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\Attributes.exe
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\Attributes.deps.json
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.json
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\Attributes.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\Attributes.dll
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\ref\Attributes.dll
+G:\Projects\Advanced C#\Attributes\Attributes\bin\Debug\net5.0\Attributes.pdb
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.csprojAssemblyReference.cache
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.AssemblyInfo.cs
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.dll
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\ref\Attributes.dll
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.pdb
+G:\Projects\Advanced C#\Attributes\Attributes\obj\Debug\net5.0\Attributes.genruntimeconfig.cache
