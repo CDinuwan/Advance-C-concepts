@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\Reflection.exe
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\Reflection.deps.json
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.json
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\Reflection.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\Reflection.dll
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\ref\Reflection.dll
+G:\Projects\Advanced C#\Reflection\Reflection\bin\Debug\net5.0\Reflection.pdb
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.csprojAssemblyReference.cache
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.AssemblyInfo.cs
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.dll
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\ref\Reflection.dll
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.pdb
+G:\Projects\Advanced C#\Reflection\Reflection\obj\Debug\net5.0\Reflection.genruntimeconfig.cache
