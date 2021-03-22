@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\Annonymous Method.exe
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\Annonymous Method.deps.json
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\Annonymous Method.runtimeconfig.json
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\Annonymous Method.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\Annonymous Method.dll
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\ref\Annonymous Method.dll
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\bin\Debug\net5.0\Annonymous Method.pdb
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.csprojAssemblyReference.cache
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.AssemblyInfo.cs
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.dll
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\ref\Annonymous Method.dll
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.pdb
+G:\Projects\Advanced C#\Annonymous Method\Annonymous Method\obj\Debug\net5.0\Annonymous Method.genruntimeconfig.cache
