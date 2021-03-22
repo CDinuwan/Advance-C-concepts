@@ -1,0 +1,15 @@
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\LINQ.exe
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\LINQ.deps.json
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.json
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\LINQ.runtimeconfig.dev.json
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\LINQ.dll
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\ref\LINQ.dll
+G:\Projects\Advanced C#\LINQ\LINQ\bin\Debug\net5.0\LINQ.pdb
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.AssemblyInfo.cs
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.dll
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\ref\LINQ.dll
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.pdb
+G:\Projects\Advanced C#\LINQ\LINQ\obj\Debug\net5.0\LINQ.genruntimeconfig.cache
