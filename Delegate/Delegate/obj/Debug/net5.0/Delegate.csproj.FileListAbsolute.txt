@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.exe
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.deps.json
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.json
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.dll
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\ref\Delegate.dll
+G:\Projects\Advanced C#\Delegate\Delegate\bin\Debug\net5.0\Delegate.pdb
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csprojAssemblyReference.cache
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.AssemblyInfo.cs
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.dll
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\ref\Delegate.dll
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.pdb
+G:\Projects\Advanced C#\Delegate\Delegate\obj\Debug\net5.0\Delegate.genruntimeconfig.cache
