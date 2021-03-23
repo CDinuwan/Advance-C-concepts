@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Task parallel Library/1.0.0": {
+        "runtime": {
+          "Task parallel Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task parallel Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\Task parallel Library.exe
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\Task parallel Library.deps.json
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\Task parallel Library.runtimeconfig.json
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\Task parallel Library.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\Task parallel Library.dll
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\ref\Task parallel Library.dll
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\bin\Debug\net5.0\Task parallel Library.pdb
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.AssemblyInfo.cs
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.dll
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\ref\Task parallel Library.dll
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.pdb
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.genruntimeconfig.cache
+G:\Projects\Advanced C#\Task parallel Library\Task parallel Library\obj\Debug\net5.0\Task parallel Library.csprojAssemblyReference.cache
