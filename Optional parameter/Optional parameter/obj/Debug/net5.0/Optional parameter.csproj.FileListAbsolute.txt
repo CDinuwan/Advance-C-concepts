@@ -1,0 +1,15 @@
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\Optional parameter.exe
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\Optional parameter.deps.json
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\Optional parameter.runtimeconfig.json
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\Optional parameter.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\Optional parameter.dll
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\ref\Optional parameter.dll
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\bin\Debug\net5.0\Optional parameter.pdb
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.AssemblyInfo.cs
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.dll
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\ref\Optional parameter.dll
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.pdb
+G:\Projects\Advanced C#\Optional parameter\Optional parameter\obj\Debug\net5.0\Optional parameter.genruntimeconfig.cache

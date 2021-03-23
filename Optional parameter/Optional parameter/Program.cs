@@ -6,7 +6,11 @@ namespace Optional_parameter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PrintData(firstName:"Chanuka",age:35);
+        }
+        static void PrintData(string firstName =null,string lastName=null,int age=0)
+        {
+            Console.WriteLine(firstName+" "+lastName+" "+age);
         }
     }
 }
