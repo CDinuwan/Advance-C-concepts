@@ -1,0 +1,16 @@
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\Async and Await.exe
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\Async and Await.deps.json
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\Async and Await.runtimeconfig.json
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\Async and Await.runtimeconfig.dev.json
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\Async and Await.dll
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\ref\Async and Await.dll
+G:\Projects\Advanced C#\Async and Await\Async and Await\bin\Debug\net5.0\Async and Await.pdb
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.csprojAssemblyReference.cache
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.AssemblyInfoInputs.cache
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.AssemblyInfo.cs
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.csproj.CoreCompileInputs.cache
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.dll
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\ref\Async and Await.dll
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.pdb
+G:\Projects\Advanced C#\Async and Await\Async and Await\obj\Debug\net5.0\Async and Await.genruntimeconfig.cache
